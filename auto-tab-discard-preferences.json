@@ -1,0 +1,9 @@
+{
+  "chrome.storage.local": {
+    "last-update": 1703830494408,
+    "whitelist": [
+      "mozilla.github.io"
+    ]
+  },
+  "localStorage": {}
+}

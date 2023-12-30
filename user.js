@@ -151,8 +151,8 @@ user_pref("network.http.rcwn.enabled", false);
 user_pref("browser.urlbar.update2.engineAliasRefresh", true);
 
 // Enable Sleeping Tab
-user_pref("floorp.tabsleep.enabled", true);
-user_pref("floorp.tabsleep.tabTimeoutMinutes", 6);
+// user_pref("floorp.tabsleep.enabled", true);
+// user_pref("floorp.tabsleep.tabTimeoutMinutes", 6);
 
 // Enable PWA
 user_pref("browser.ssb.enabled", true);
